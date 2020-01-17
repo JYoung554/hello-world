@@ -1,4 +1,3 @@
-# hello-world
 
 #include <iostream>
 #include <cstring>
